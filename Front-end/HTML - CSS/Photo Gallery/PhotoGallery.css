@@ -1,0 +1,25 @@
+div p{
+	font-size: 500px;
+	color:#142D36;
+}
+
+body{
+	background: #9DD0E0;
+	padding-top: 70px;
+}
+
+.jumbotron{
+	color: #3394B5;
+
+}
+.navbar-inverse
+{
+	background:#2483A3;
+}
+.navbar-inverse .navbar-nav>li>a{
+	color: white;
+}
+
+.navbar-inverse .navbar-brand{
+	color: white;
+}
