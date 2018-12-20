@@ -1,2 +1,2 @@
-A small blog
+A small blog;
 Used random texts.
