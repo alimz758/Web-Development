@@ -1,0 +1,21 @@
+body{
+	margin:20px auto;
+	border: 25px solid #52AAC7;
+	max-width: 700px;
+	width: 80%;
+	padding: 20px;
+}
+
+.date{
+	text-transform: uppercase;
+	color: #0B7599;
+	letter-spacing: 2px;
+
+}
+
+.initialBorder{
+	
+	border-left: 5px solid black;
+	
+	padding-left: 5px;
+}
