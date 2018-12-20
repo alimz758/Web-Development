@@ -1,1 +1,1 @@
-This is a photo gallery. Bootstrap has been implemented.
+This is a photo gallery. Bootstrap 3 has been implemented.
