@@ -1,0 +1,27 @@
+.nav-link{
+	color: white;
+}
+
+.jumbotron{
+	background-image: url(https://static.vecteezy.com/system/resources/previews/000/135/628/large_2x/vector-white-brick-pattern-background.jpg);
+	background-size: cover;
+}
+
+hr{
+	width: 700
+}
+
+
+body{
+	background-image: url(http://stingraysstudio.com/wp-content/uploads/2018/03/410119501Website-Design-Background.jpg);
+	background-size: cover;
+}
+
+html{
+	height: 100%;
+}
+
+.card-img-top {
+    height: 15rem;
+    object-fit: cover;
+}
