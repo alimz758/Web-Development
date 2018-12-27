@@ -1,0 +1,13 @@
+This is a simple Express App that I learned how to implement ejs files and make HTML Templates.
+
+Since the files are large the npm packages (Express and ejs) are not included here.
+
+you can simplt get them by entering : 
+
+npm install express --save 
+
+&
+
+npm install ejs --save to the directory to run this
+
+It's recommended to run it on Cloud9; that's how I did it.
