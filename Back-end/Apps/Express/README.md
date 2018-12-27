@@ -1,3 +1,3 @@
-These are a few simple Express app that I have coded, just for practice to 
+These are a few simple Express app that I have coded, just for practice to  get the hang of Express.
 
-get the hang of Express and ejs.
+I have utilized "ejs" files to do so.
