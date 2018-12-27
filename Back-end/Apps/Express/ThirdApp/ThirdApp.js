@@ -3,7 +3,7 @@ var app = express();
 //extracts data for the server
 var bodyParser = require("body-parser");
 
-
+//tell the app to use the body-parser
 app.use(bodyParser.urlencoded({extended: true}));
 app.set("view engine", "ejs");
 
