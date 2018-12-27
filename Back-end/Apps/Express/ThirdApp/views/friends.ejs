@@ -1,0 +1,12 @@
+<h1>Friends List Goes Here!</h1>
+
+//ejs part that loop through each name , aka firends
+<% friends.forEach(function(friend){ %>
+  <li><%= friend %></li>
+<% }); %>
+
+//a from  that its methos is POST, and it posts it on /addfriend
+<form action="/addfriend" method="POST">
+    <input type="text" name="newfriend" placeholder="name">
+    <button>I made a new friend!</button>
+</form>
