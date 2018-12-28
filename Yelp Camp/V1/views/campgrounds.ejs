@@ -1,0 +1,27 @@
+<%  include partials/header %>
+<div class="container">
+    <header class="jumbotron">
+        <h1>Welcome to Campgrounds!</h1>
+        <p>View our Hand-picked Campgrounds</p>
+        <p>
+            <a class="btn btn-primary btn-lrg" href="/campgrounds/new">Adding a New Campground</a>
+        </p>
+        
+    </header>
+    
+    <div class="row text-center">
+        <% campArr.forEach(function(array){ %>
+        <div class="col-md-3 col-sm-6">
+            <div class="thumbnail">
+                <img src=" <%=array.image %> "> 
+                <div class="caption">
+                     <%= array.name %>
+                </div>
+            </div>
+        </div>
+     <% }) %>
+    </div>
+  </div>  
+    
+    
+<%  include partials/footer %>
